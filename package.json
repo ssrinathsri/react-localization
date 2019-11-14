@@ -9,7 +9,9 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-i18next": "^10.12.4",
-    "react-scripts": "3.1.1"
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.1.1",
+    "react-test-renderer": "0.0.0-b53ea6ca0"
   },
   "scripts": {
     "start": "react-scripts start",
